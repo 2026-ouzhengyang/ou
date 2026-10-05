@@ -1,0 +1,8 @@
+{
+  "name": "zhengdian",
+  "productName": "政点",
+  "version": "3.0.0",
+  "description": "个人成长控制台 · 完全离线",
+  "main": "main.js",
+  "private": true
+}
